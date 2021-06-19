@@ -1,5 +1,5 @@
 import React from "react";
-
+import {  useParams } from "react-router-dom";
 
 function Cart() {  
 
@@ -11,9 +11,11 @@ function Cart() {
 }
 
 function CartDetail() {  
+ const { id } = useParams();
 
   return (
     <div>
+      { id }
       CartDetail
     </div>
   );
