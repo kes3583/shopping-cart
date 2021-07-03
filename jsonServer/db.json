@@ -1,14 +1,615 @@
 {
-  "memo": [
+  "coupons": [
     {
-      "id": 1,
-      "title": "첫 메모 제목",
-      "body": "첫 메모 내용"
+      "productId": "OIL",
+      "filePath": [
+        "https://s3-alma-bucket.s3.amazonaws.com/OIL/20210616/coupon_1623847451130.png"
+      ],
+      "id": 8
     },
     {
+      "productId": "OIL",
+      "filePath": [
+        "https://s3-alma-bucket.s3.amazonaws.com/OIL/20210616/coupon_1623847451130.png"
+      ],
+      "id": 9
+    },
+    {
+      "productId": "OIL",
+      "filePath": [
+        "https://s3-alma-bucket.s3.amazonaws.com/OIL/20210616/coupon_1623847451130.png"
+      ],
+      "id": 10
+    },
+    {
+      "productId": "OIL",
+      "filePath": [
+        "https://s3-alma-bucket.s3.amazonaws.com/OIL/20210616/coupon_1623847451130.png"
+      ],
+      "id": 11
+    },
+    {
+      "productId": "OIL",
+      "filePath": [
+        "https://s3-alma-bucket.s3.amazonaws.com/OIL/20210616/coupon_1623847451130.png"
+      ],
+      "id": 12
+    },
+    {
+      "productId": "OIL",
+      "filePath": [
+        "https://s3-alma-bucket.s3.amazonaws.com/OIL/20210616/coupon_1623847451130.png"
+      ],
+      "id": 13
+    },
+    {
+      "productId": "OIL",
+      "filePath": [
+        "https://s3-alma-bucket.s3.amazonaws.com/OIL/20210616/coupon_1623847451130.png"
+      ],
+      "id": 14
+    },
+    {
+      "productId": "PM",
+      "filePath": [
+        "https://s3-alma-bucket.s3.amazonaws.com/PM/20210616/coupon_1623849005457.png",
+        "https://s3-alma-bucket.s3.amazonaws.com/PM/20210616/coupon_1623849011169.png",
+        "https://s3-alma-bucket.s3.amazonaws.com/PM/20210616/coupon_1623849016504.png",
+        "https://s3-alma-bucket.s3.amazonaws.com/PM/20210616/coupon_1623849020924.png"
+      ],
+      "id": 15
+    },
+    {
+      "productId": "OIL",
+      "filePath": [
+        "https://s3-alma-bucket.s3.amazonaws.com/OIL/20210616/coupon_1623849717413.png",
+        "https://s3-alma-bucket.s3.amazonaws.com/OIL/20210616/coupon_1623849720316.png"
+      ],
+      "id": 16
+    },
+    {
+      "productId": "OIL",
+      "filePath": [
+        "https://s3-alma-bucket.s3.amazonaws.com/OIL/20210617/coupon_1623859485491.png"
+      ],
+      "id": 17
+    },
+    {
+      "productId": "OIL",
+      "filePath": [
+        "https://s3-alma-bucket.s3.amazonaws.com/OIL/20210617/coupon_1623866780155.png",
+        "https://s3-alma-bucket.s3.amazonaws.com/OIL/20210617/coupon_1623866784367.png"
+      ],
+      "id": 18
+    },
+    {
+      "productId": "PM",
+      "filePath": [
+        "https://s3-alma-bucket.s3.amazonaws.com/PM/20210617/coupon_1623866955356.png"
+      ],
+      "id": 19
+    },
+    {
+      "productId": "OIL",
+      "filePath": [
+        "https://s3-alma-bucket.s3.amazonaws.com/OIL/20210617/coupon_1623866973050.png"
+      ],
+      "id": 20
+    },
+    {
+      "productId": "OIL",
+      "filePath": [
+        "https://s3-alma-bucket.s3.amazonaws.com/OIL/20210617/coupon_1623867287397.png"
+      ],
+      "id": 21
+    },
+    {
+      "productId": "PM",
+      "filePath": [],
+      "id": 22
+    },
+    {
+      "productId": "OIL",
+      "filePath": [
+        "https://s3-alma-bucket.s3.amazonaws.com/OIL/20210617/coupon_1623868234359.png"
+      ],
+      "id": 23
+    },
+    {
+      "productId": "PM",
+      "filePath": [
+        "https://s3-alma-bucket.s3.amazonaws.com/PM/20210617/coupon_1623928817613.png"
+      ],
+      "id": 24
+    },
+    {
+      "productId": "OIL",
+      "filePath": [
+        "https://s3-alma-bucket.s3.amazonaws.com/OIL/20210617/coupon_1623929549649.png"
+      ],
+      "id": 25
+    },
+    {
+      "productId": "PM",
+      "filePath": [
+        "https://s3-alma-bucket.s3.amazonaws.com/PM/20210617/coupon_1623929833669.png"
+      ],
+      "id": 26
+    },
+    {
+      "productId": "OIL",
+      "filePath": [
+        "https://s3-alma-bucket.s3.amazonaws.com/OIL/20210617/coupon_1623938671775.png"
+      ],
+      "id": 28
+    },
+    {
+      "productId": "OIL",
+      "filePath": [
+        "https://s3-alma-bucket.s3.amazonaws.com/OIL/20210617/coupon_1623938739108.png"
+      ],
+      "id": 29
+    },
+    {
+      "productId": "OIL",
+      "filePath": [
+        "https://s3-alma-bucket.s3.amazonaws.com/OIL/20210617/coupon_1623938777330.png",
+        "https://s3-alma-bucket.s3.amazonaws.com/OIL/20210617/coupon_1623938781820.png",
+        "https://s3-alma-bucket.s3.amazonaws.com/OIL/20210617/coupon_1623938790714.png"
+      ],
+      "id": 30
+    },
+    {
+      "productId": "PM",
+      "filePath": [
+        "https://s3-alma-bucket.s3.amazonaws.com/PM/20210617/coupon_1623941448185.svg"
+      ],
+      "id": 31
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "preferences": [
+    {
+      "appId": 1,
+      "timezone": "IST",
+      "email": "daily"
+    },
+    {
+      "appId": 2,
+      "timezone": "EST",
+      "email": "weekly"
+    },
+    {
+      "appId": 3,
+      "timezone": "PST",
+      "email": "never"
+    }
+  ],
+  "product_input": [
+    {
+      "productId": 11
+    }
+  ],
+  "coupon_input": [
+    {
+      "productId": 1,
+      "totalCount": 100,
+      "successCount": 99,
+      "failureCount": 1
+    },
+    {
+      "productId": 2,
+      "totalCount": 100,
+      "successCount": 99,
+      "failureCount": 1
+    },
+    {
+      "productId": 3,
+      "totalCount": 100,
+      "successCount": 99,
+      "failureCount": 1
+    },
+    {
+      "productId": 4,
+      "totalCount": 100,
+      "successCount": 99,
+      "failureCount": 1
+    },
+    {
+      "productId": 5,
+      "totalCount": 100,
+      "successCount": 99,
+      "failureCount": 1
+    }
+  ],
+  "coupon_output": [
+    {
+      "id": 12,
+      "groupType": "OIL",
+      "company": "SKE",
+      "benefit": "5000",
+      "coupon": {
+        "number": "ABCDEFGHIJKLMN",
+        "issueDate": "20210518",
+        "expireDate": "20210717"
+      }
+    }
+  ],
+  "product": [
+    {
       "id": 1,
-      "title": "첫 메모 제목",
-      "body": "첫 메모 내용"
+      "name": "SK 주유소 5000원 할인 쿠폰",
+      "status": "등록 진행중",
+      "groupType": "OIL",
+      "company": "SKE",
+      "benefit": "5000",
+      "registeredCount": 1400,
+      "issuedCount": 1000,
+      "remainCount": 300,
+      "expiredCount": 100
+    },
+    {
+      "id": 2,
+      "name": "SK 주유소 5000원 할인 쿠폰",
+      "status": "등록 진행중",
+      "groupType": "OIL",
+      "company": "SKE",
+      "benefit": "5000",
+      "registeredCount": 1400,
+      "issuedCount": 1000,
+      "remainCount": 300,
+      "expiredCount": 100
+    },
+    {
+      "id": 3,
+      "name": "SK 주유소 5000원 할인 쿠폰",
+      "status": "등록 진행중",
+      "groupType": "OIL",
+      "company": "SKE",
+      "benefit": "5000",
+      "registeredCount": 1400,
+      "issuedCount": 1000,
+      "remainCount": 300,
+      "expiredCount": 100
+    },
+    {
+      "id": 4,
+      "name": "SK 주유소 5000원 할인 쿠폰",
+      "status": "등록 진행중",
+      "groupType": "OIL",
+      "company": "SKE",
+      "benefit": "5000",
+      "registeredCount": 1400,
+      "issuedCount": 1000,
+      "remainCount": 300,
+      "expiredCount": 100
+    },
+    {
+      "id": 5,
+      "name": "SK 주유소 5000원 할인 쿠폰",
+      "status": "등록 진행중",
+      "groupType": "OIL",
+      "company": "SKE",
+      "benefit": "5000",
+      "registeredCount": 1400,
+      "issuedCount": 1000,
+      "remainCount": 300,
+      "expiredCount": 100
+    },
+    {
+      "id": 6,
+      "name": "SK 주유소 5000원 할인 쿠폰",
+      "status": "등록 진행중",
+      "groupType": "OIL",
+      "company": "SKE",
+      "benefit": "5000",
+      "registeredCount": 1400,
+      "issuedCount": 1000,
+      "remainCount": 300,
+      "expiredCount": 100
+    },
+    {
+      "id": 7,
+      "name": "SK 주유소 5000원 할인 쿠폰",
+      "status": "등록 진행중",
+      "groupType": "OIL",
+      "company": "SKE",
+      "benefit": "5000",
+      "registeredCount": 1400,
+      "issuedCount": 1000,
+      "remainCount": 300,
+      "expiredCount": 100
+    },
+    {
+      "id": 8,
+      "name": "SK 주유소 5000원 할인 쿠폰",
+      "status": "등록 진행중",
+      "groupType": "OIL",
+      "company": "SKE",
+      "benefit": "5000",
+      "registeredCount": 1400,
+      "issuedCount": 1000,
+      "remainCount": 300,
+      "expiredCount": 100
+    },
+    {
+      "id": 9,
+      "name": "SK 주유소 5000원 할인 쿠폰",
+      "status": "등록 진행중",
+      "groupType": "OIL",
+      "company": "SKE",
+      "benefit": "5000",
+      "registeredCount": 1400,
+      "issuedCount": 1000,
+      "remainCount": 300,
+      "expiredCount": 100
+    },
+    {
+      "id": 10,
+      "name": "SK 주유소 5000원 할인 쿠폰",
+      "status": "등록 진행중",
+      "groupType": "OIL",
+      "company": "SKE",
+      "benefit": "5000",
+      "registeredCount": 1400,
+      "issuedCount": 1000,
+      "remainCount": 300,
+      "expiredCount": 100
+    },
+    {
+      "id": 11,
+      "name": "SK 주유소 5000원 할인 쿠폰",
+      "status": "등록 진행중",
+      "groupType": "OIL",
+      "company": "SKE",
+      "benefit": "5000",
+      "registeredCount": 1400,
+      "issuedCount": 1000,
+      "remainCount": 300,
+      "expiredCount": 100
+    },
+    {
+      "id": 12,
+      "name": "SK 주유소 5000원 할인 쿠폰",
+      "status": "등록 진행중",
+      "groupType": "OIL",
+      "company": "SKE",
+      "benefit": "5000",
+      "registeredCount": 1400,
+      "issuedCount": 1000,
+      "remainCount": 300,
+      "expiredCount": 100
+    }
+  ],
+  "product_list": [
+    {
+      "pageNo": 1,
+      "pageSize": 10,
+      "totalPage": 2,
+      "totalElement": 12,
+      "first": true,
+      "last": false,
+      "content": [
+        {
+          "id": 1,
+          "name": "SK 주유소 5000원 할인 쿠폰",
+          "status": "등록 완료",
+          "groupType": "OIL",
+          "company": "SKE",
+          "benefit": "5000",
+          "registeredCount": 1400,
+          "issuedCount": 1000,
+          "remainCount": 300,
+          "expiredCount": 100
+        },
+        {
+          "id": 2,
+          "name": "S-Oil 주유소 20% 할인 쿠폰",
+          "status": "등록 완료",
+          "groupType": "OIL",
+          "company": "SOIL",
+          "benefit": "20DC",
+          "registeredCount": 1000,
+          "issuedCount": 300,
+          "remainCount": 200,
+          "expiredCount": 500
+        }
+      ]
+    }
+  ],
+  "subscribe_search": [
+    {
+      "result": "Y",
+      "subsItems": [
+        {
+          "subsItem": "SKT",
+          "subsStartDate": "20210528",
+          "subsEndDate": "20210628"
+        },
+        {
+          "subsItem": "TMAP-BASIC",
+          "subsStartDate": "20210528",
+          "subsEndDate": "20210628"
+        }
+      ]
+    }
+  ],
+  "subscribe_cancel": [
+    {
+      "result": "N"
+    }
+  ],
+  "subscribe_reserve": [
+    "200"
+  ],
+  "subscribe_wait": [
+    "200"
+  ],
+  "subscribe_register": [
+    "200"
+  ],
+  "subscribe_wait_datails": [
+    {
+      "ci": "bPwVjLnMEhawNBdGds9eLok5EJJn7EHin9JaEPrVuPwOvpbYMZ+GlIt98YaS2aQOtoH5umF9I8GYlCpEreNOQg==",
+      "subsItem": "SKT",
+      "waitStartDate": "20210528090000",
+      "waitStatus": "WAIT",
+      "subsEndDate": "20210628000000"
+    }
+  ],
+  "subscribe_datails": [
+    {
+      "subsId": "test_user_key_1+SKT",
+      "userKey": "test_user_key_1",
+      "subsStatus": "IN_USE",
+      "subsItem": "SKT",
+      "paymentPath": "SKT",
+      "orderDate": "20210610",
+      "subsPaymentDate": "20210610",
+      "subsStartDate": "20210611",
+      "subsEndDate": "20210711",
+      "subsExtendYn": "Y",
+      "subsCnclDate": null
+    }
+  ],
+  "subscribe_history": [
+    {
+      "historyId": "a43a8602-c7f6-40de-8728-964349bc7a33",
+      "userKey": "test_user_key_2",
+      "subsItem": "SKT",
+      "subsPaymentDate": "20210610",
+      "orderDate": "20210610",
+      "subsStartDate": "20210611",
+      "subsEndDate": "20210611",
+      "subsCnclDate": "20210611",
+      "subsMgmtNum": 11111118
+    }
+  ],
+  "subscribe_modify": [
+    "200"
+  ],
+  "subscribe_delete": [
+    "200"
+  ],
+  "subscribe_temp": [
+    "200"
+  ],
+  "benefit_1": [
+    {
+      "subsItem": "SKT",
+      "gasBrand": "SK",
+      "carCoupons": [
+        {
+          "itemId": "skt.basic.car.oil.sk",
+          "couponNumber": "ABCD3456KDIW-1",
+          "useYn": "N",
+          "startDate": "20210525090000",
+          "endDate": "20210625090000"
+        },
+        {
+          "itemId": "skt.basic.car.oil.sk",
+          "couponNumber": "ABCD3456KDIW-2",
+          "useYn": "N",
+          "startDate": "20210525090000",
+          "endDate": "20210625090000"
+        }
+      ],
+      "mobilityCoupons": [
+        {
+          "itemId": "skt.basic.mobility.kick.xingxing",
+          "useYn": "N",
+          "startDate": "20210525090000",
+          "endDate": "20210625090000"
+        }
+      ],
+      "insurances": [
+        {
+          "itemId": "skt.basic.life.insure.meritz",
+          "status": "REG",
+          "startDate": "20210525090000"
+        }
+      ],
+      "celebVoice": [
+        {
+          "itemId": "skt.basic.life.celeb.2mj",
+          "startDate": "20210525090000",
+          "endDate": "20210625090000"
+        }
+      ]
+    }
+  ],
+  "user-selection": [
+    "200"
+  ],
+  "benefit_coupon": [
+    "200"
+  ],
+  "benefit_celeb": [
+    "200"
+  ],
+  "benefit_item": [
+    {
+      "subsProductId": 1,
+      "bnftItemId": "skt.basic.car.oil.sk",
+      "subsItem": "SKT",
+      "itemName": "주유권",
+      "description": "5,000원",
+      "imageUrl": "http://cdn.tmap.com/img/ske_coupon.png",
+      "usageType": "OFFLINE",
+      "usagePeriodType": "MEMBERSHIP_PERIOD",
+      "bnftType": "CARMAINTENCANCE",
+      "provider": "COUPON",
+      "couponProductId": "coupon-gas-id-1"
+    },
+    {
+      "subsProductId": 2,
+      "bnftItemId": "skt.basic.mobility.kickboard.kickgoing",
+      "subsItem": "SKT",
+      "itemName": "킥보드 무료잠금해제",
+      "description": "1,000원",
+      "imageUrl": "http://cdn.tmap.com/img/kickgoing.png",
+      "usageType": "ONLINE",
+      "usagePeriodType": "UP_TO_PARTNER",
+      "bnftType": "MOBILITY",
+      "provider": "COUPON",
+      "couponProductId": "coupon-kick-id-1"
+    },
+    {
+      "subsProductId": 3,
+      "bnftItemId": "skt.basic.car.oil.sk",
+      "subsItem": "TMAP-BASIC",
+      "itemName": "주유권",
+      "description": "5,000원",
+      "imageUrl": "http://cdn.tmap.com/img/ske_coupon.png",
+      "usageType": "OFFLINE",
+      "usagePeriodType": "MEMBERSHIP_PERIOD",
+      "bnftType": "CARMAINTENCANCE",
+      "provider": "COUPON",
+      "couponProductId": "coupon-gas-id-2"
+    }
+  ],
+  "benefit_item_sub": [
+    {
+      "subsProductId": "1",
+      "bnftItemId": "skt.basic.car.oil.sk",
+      "quantity": 1
+    },
+    {
+      "subsProductId": "2",
+      "bnftItemId": "skt.basic.mobility.kickboard.kickgoing",
+      "quantity": 1
+    },
+    {
+      "subsProductId": "3",
+      "bnftItemId": "skt.basic.car.oil.sk",
+      "quantity": 1
+    },
+    {
+      "subsProductId": "4",
+      "bnftItemId": "skt.basic.mobility.kickboard.kickgoing",
+      "quantity": 1
     }
   ]
 }
