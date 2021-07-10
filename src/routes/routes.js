@@ -1,5 +1,6 @@
 import { Home } from "../pages";
-import { Cart, CartDetail } from "../pages";
+import { Cart } from "../pages";
+import { ProductDetails } from "../components";
 import { User } from "../pages";
 import { Layout } from "../pages";
 import { NotFound } from "../pages";
@@ -14,7 +15,7 @@ const routes = [
     element: <Layout />,
     children: [
       { path: '/', element: <Cart /> },
-      { path: ':id', element: <CartDetail /> },
+      { path: '/:productId', element: <ProductDetails /> },
     ]
   }
 ];
