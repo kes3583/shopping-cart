@@ -49,11 +49,9 @@ const ProductList = () => {
     fetchData();
     return () => { ignore = true; }
   }, [dispatch]);
-
-  console.log('productList 2 :>> ', productList);
+ 
   return(
-      <div>
-        <h1>ProductList</h1>
+       <div className="ui grid container">
         <ProductComponents />
       </div>
   )
