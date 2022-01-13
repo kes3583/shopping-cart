@@ -9,7 +9,7 @@ const Drawer = memo(({show, onToggleDrawer}) => {
             <div className={`drawer ${show ? "show" : ""}`}>
                 <ul className="drawer__links">
                     <li>
-                        <Link to="cart">Cart <span className="drawer__cartbadge">0</span></Link>
+                        <Link to="cart2">Cart <span className="drawer__cartbadge">0</span></Link>
                     </li>
                     <li>
                         <Link to="/">Shop</Link>
