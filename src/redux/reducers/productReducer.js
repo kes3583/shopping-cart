@@ -1,6 +1,7 @@
 import { ActionTypes } from "../contants/action-types";
 
 const initialState = {
+  loading: false,
   data: []
 };
 

@@ -12,7 +12,7 @@ const ProductList = () => {
   console.log('productList 1:>> ', productList);
 
   useEffect(() => {
-    let ignore = false;
+    let ignore = false; 
 
     async function fetchData() {
       try {

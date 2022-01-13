@@ -1,8 +1,25 @@
-* {
-  font-family: "Roboto", sans-serif;
+* {  
   padding: 0;
   margin: 0;
+  box-sizing: border-box;
 }
+
+body{
+  font-family: "Roboto", sans-serif;
+}
+
+img {
+  width: 100%;
+  object-fit: contain;
+}
+
+ul, ol{list-style: none;}
+a{text-decoration: none;}
+
+button{display: inline-block; border:none; margin:0; padding:0; cursor: pointer; transition: background 250ms ease-in-out, 
+                transform 150ms ease;
+    -webkit-appearance: none;
+    -moz-appearance: none;}
 
 .user{background-color: #ff3e6c;}
 
