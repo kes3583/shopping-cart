@@ -13,4 +13,12 @@ const reducers = combineReducers({
   selected: selectedProductReducer,
 })
 
-export default reducers;
+const cartFromLocalStorage = localStorage.getItem('cart') ? JSON.parse(localStorage.getItem('cart')) : []; //set localStorage
+
+const INITIAL_STATE = {
+  cart: {
+    cartItems: cartFromLocalStorage
+  }
+}
+
+export {reducers, INITIAL_STATE};
