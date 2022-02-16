@@ -28,7 +28,7 @@
     "start": "node ./expressServer/server.js",
     "server": "nodemon ./expressServer/server.js",
     "client": "react-scripts start",
-    "dev": "concurrently \"yarn run server\" \"yarn run client\"",
+    "dev": "concurrently \"yarn start\" \"yarn run client\"",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
